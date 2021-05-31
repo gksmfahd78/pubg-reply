@@ -1,0 +1,16 @@
+<?php
+ 
+namespace App\Classes;
+ 
+
+class Maps   {
+	
+	
+   const MAP_ERANGEL  = "Erangel_Main";
+   const MAP_MIRAMAR   = "Desert_Main";
+   const MAP_SAVAGE   = "Savage_Main"; 
+   const MAP_VIKENDI = "DihorOtok_Main";
+   const MAP_BALTIC = "Baltic_Main";
+   const MAP_SUMMERLAND = "Summerland_Main";
+   const MAP_PARAMO = "Chimera_Main";
+}
